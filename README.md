@@ -1,2 +1,1 @@
-# dictionary_game
-A dictionary game where player picks a word and the program determines the number of steps until solution
+A C game where the program picks 2 same size words from a dictionary and the player tries to find a path from one another, that in each step only one letter changes, and the new word of every step belongs in the dictionary, and the word-destination to be found in a limited number of steps.
